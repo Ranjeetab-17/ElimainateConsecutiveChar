@@ -1,0 +1,14 @@
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\bin\Debug\net9.0\ProgramTest.exe
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\bin\Debug\net9.0\ProgramTest.deps.json
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\bin\Debug\net9.0\ProgramTest.runtimeconfig.json
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\bin\Debug\net9.0\ProgramTest.dll
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\bin\Debug\net9.0\ProgramTest.pdb
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.AssemblyInfoInputs.cache
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.AssemblyInfo.cs
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.csproj.CoreCompileInputs.cache
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.dll
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\refint\ProgramTest.dll
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.pdb
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ProgramTest.genruntimeconfig.cache
+c:\Development\DSU_Dotnet\Rachana_interview_que\ProgramTest\obj\Debug\net9.0\ref\ProgramTest.dll
