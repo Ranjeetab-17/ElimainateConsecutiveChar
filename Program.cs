@@ -12,9 +12,7 @@ using System.Text;
 var _data = "bbbbbabcdef";
 
 var result = _data.SplitStringByComma();
-
-StringBuilder sb = new StringBuilder();
-
+ 
 for (int i = 0; i < result.Count; i++)
 {
     if (result[i].ToCharArray().Length > 1)
